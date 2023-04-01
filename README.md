@@ -18,8 +18,14 @@ install.packages('shiny')
 
 Then install this package from github:
 
+Origin github website:
 ```r
 devtools::install_github('wleepang/shiny-directory-input')
+```
+
+My github website:
+```r
+devtools::install_github('Gemini-xuanwu/shiny-directory-input')
 ```
 
 ## Special Requirements
